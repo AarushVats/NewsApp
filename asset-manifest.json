@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/git@github.com:AarushVats/NewsHunger.git/static/css/main.073c9b0a.css",
+    "main.js": "/git@github.com:AarushVats/NewsHunger.git/static/js/main.f0e90a6e.js",
+    "static/js/787.4c026eef.chunk.js": "/git@github.com:AarushVats/NewsHunger.git/static/js/787.4c026eef.chunk.js",
+    "index.html": "/git@github.com:AarushVats/NewsHunger.git/index.html",
+    "main.073c9b0a.css.map": "/git@github.com:AarushVats/NewsHunger.git/static/css/main.073c9b0a.css.map",
+    "main.f0e90a6e.js.map": "/git@github.com:AarushVats/NewsHunger.git/static/js/main.f0e90a6e.js.map",
+    "787.4c026eef.chunk.js.map": "/git@github.com:AarushVats/NewsHunger.git/static/js/787.4c026eef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.f0e90a6e.js"
+  ]
+}
